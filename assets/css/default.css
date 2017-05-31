@@ -1,0 +1,29 @@
+﻿#flexpoints-logo {
+    background:url('../img/Flex-Points.png') no-repeat center;
+    background-size: contain;
+    background-color: white;
+}
+.feature-icon {
+    width: 100%;
+}
+
+.avatar {
+    width: 100%;
+}
+#video {
+    cursor:pointer;
+    background:url('../img/video-thumb.png') no-repeat;
+    background-size:cover;
+}
+video {
+     max-width:80%;
+}
+.mfp-content {
+    text-align: center;
+}
+.mfp-close {
+    display:none !important;
+}
+.hidden {
+	visibility: hidden;
+}

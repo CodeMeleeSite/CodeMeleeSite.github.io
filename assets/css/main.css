@@ -1,0 +1,16 @@
+#wrapper > header {
+    min-height: 100px;
+    background: url('./../img/logo.png') center;
+    background-size: 320px;
+    background-repeat: no-repeat;
+}
+
+.mdl-layout__header {
+    display:block;
+}
+
+footer {
+    background: url('./../img/logo-hex.png') no-repeat;
+    background-position: right 20px center;
+    background-size: 100px;
+}
